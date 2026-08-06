@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
 | [3731-find-missing-elements](https://github.com/RohitKhobare/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
 | [3731-find-missing-elements](https://github.com/RohitKhobare/LeetCode/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -33,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RohitKhobare/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
