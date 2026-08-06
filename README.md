@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/RohitKhobare/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [3731-find-missing-elements](https://github.com/RohitKhobare/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/RohitKhobare/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RohitKhobare/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -55,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/RohitKhobare/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RohitKhobare/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
