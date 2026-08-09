@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitKhobare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/RohitKhobare/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/RohitKhobare/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RohitKhobare/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RohitKhobare/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -84,5 +86,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RohitKhobare/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
