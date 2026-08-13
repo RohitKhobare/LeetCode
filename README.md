@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitKhobare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RohitKhobare/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RohitKhobare/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RohitKhobare/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/RohitKhobare/LeetCode/tree/master/3731-find-missing-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/RohitKhobare/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/RohitKhobare/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RohitKhobare/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RohitKhobare/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RohitKhobare/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RohitKhobare/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RohitKhobare/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RohitKhobare/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
