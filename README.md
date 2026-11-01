@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/RohitKhobare/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitKhobare/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RohitKhobare/LeetCode/tree/master/0169-majority-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitKhobare/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/RohitKhobare/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/RohitKhobare/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/RohitKhobare/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitKhobare/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/RohitKhobare/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/RohitKhobare/LeetCode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RohitKhobare/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
